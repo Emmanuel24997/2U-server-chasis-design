@@ -2,7 +2,7 @@
 A 19-inch 2U rackmount server chasis modelled and assembled in SOLIDWORKS
 ## 📸 Visual Showcase
 
-![Isometric View](./Renders/SOLIDWORKS Premium 2023 SP0.1 - [2U_Server_Chasis_Assembly _] 10_8_2026 9_31_13 PM_1.png)
+![Isometric View](./Renders/isometricview.png)
 
 
 
