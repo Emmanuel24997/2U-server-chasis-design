@@ -36,6 +36,6 @@ A 19-inch 2U rackmount server chasis modelled and assembled in SOLIDWORKS
 ├── Renders/              # High-resolution isometric and exploded view screenshots and Animations
 │   └── isometric-view.png
 ├── Drawings/             # 2D technical production drawings (PDFs)
-│   └── Chassis_Drawing.pdf
+│   └── 2U Server Chasis Assembly.SLDDRW
 └── Docs/                 # Mass properties reports and engineering notes
     └── Mass_Properties.txt
